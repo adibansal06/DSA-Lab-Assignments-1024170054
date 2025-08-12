@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-const int MAX = 100;
+const int MAX = 200;
 int arr[MAX], n = 0;
 bool created = false; // To check if array is created
 
@@ -98,3 +98,4 @@ int main() {
         }
     } while (choice != 6);
 }
+
